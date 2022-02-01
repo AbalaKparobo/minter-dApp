@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/minter-dApp.git/static/css/main.1b765c71.chunk.css",
-    "main.js": "/minter-dApp.git/static/js/main.b4c9169b.chunk.js",
-    "main.js.map": "/minter-dApp.git/static/js/main.b4c9169b.chunk.js.map",
-    "runtime-main.js": "/minter-dApp.git/static/js/runtime-main.1525447a.js",
-    "runtime-main.js.map": "/minter-dApp.git/static/js/runtime-main.1525447a.js.map",
-    "static/js/2.11c02294.chunk.js": "/minter-dApp.git/static/js/2.11c02294.chunk.js",
-    "static/js/2.11c02294.chunk.js.map": "/minter-dApp.git/static/js/2.11c02294.chunk.js.map",
-    "static/js/3.2ec96e41.chunk.js": "/minter-dApp.git/static/js/3.2ec96e41.chunk.js",
-    "static/js/3.2ec96e41.chunk.js.map": "/minter-dApp.git/static/js/3.2ec96e41.chunk.js.map",
-    "index.html": "/minter-dApp.git/index.html",
-    "static/css/main.1b765c71.chunk.css.map": "/minter-dApp.git/static/css/main.1b765c71.chunk.css.map",
-    "static/js/2.11c02294.chunk.js.LICENSE.txt": "/minter-dApp.git/static/js/2.11c02294.chunk.js.LICENSE.txt"
+    "main.css": "/minter-dApp/static/css/main.1b765c71.chunk.css",
+    "main.js": "/minter-dApp/static/js/main.b4c9169b.chunk.js",
+    "main.js.map": "/minter-dApp/static/js/main.b4c9169b.chunk.js.map",
+    "runtime-main.js": "/minter-dApp/static/js/runtime-main.c0429b5a.js",
+    "runtime-main.js.map": "/minter-dApp/static/js/runtime-main.c0429b5a.js.map",
+    "static/js/2.beaa6644.chunk.js": "/minter-dApp/static/js/2.beaa6644.chunk.js",
+    "static/js/2.beaa6644.chunk.js.map": "/minter-dApp/static/js/2.beaa6644.chunk.js.map",
+    "static/js/3.2ec96e41.chunk.js": "/minter-dApp/static/js/3.2ec96e41.chunk.js",
+    "static/js/3.2ec96e41.chunk.js.map": "/minter-dApp/static/js/3.2ec96e41.chunk.js.map",
+    "index.html": "/minter-dApp/index.html",
+    "static/css/main.1b765c71.chunk.css.map": "/minter-dApp/static/css/main.1b765c71.chunk.css.map",
+    "static/js/2.beaa6644.chunk.js.LICENSE.txt": "/minter-dApp/static/js/2.beaa6644.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1525447a.js",
-    "static/js/2.11c02294.chunk.js",
+    "static/js/runtime-main.c0429b5a.js",
+    "static/js/2.beaa6644.chunk.js",
     "static/css/main.1b765c71.chunk.css",
     "static/js/main.b4c9169b.chunk.js"
   ]
