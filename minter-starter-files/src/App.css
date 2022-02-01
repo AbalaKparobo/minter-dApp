@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+
+.cta-button {
+  height: 45px;
+  border: 0;
+  width: auto;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+}
+
+.toggle-sales {
+  margin-top: 40px;
+  background: -webkit-linear-gradient(right, #60c657, #35aee2);
+  background-size: 200% 200%;
+  animation: gradient-animation 4s ease infinite;
+}
+
+.toggle-whitelist-sales {
+  margin-top: 40px;
+  background: -webkit-linear-gradient(right, #223020, #1f5167);
+  background-size: 200% 200%;
+  animation: gradient-animation 4s ease infinite;
+}
+
+.limit-input {
+  height: 40px;
+  font-size: 24px;
+  border: 1px solid -webkit-linear-gradient(right, #0a5503, #073244);
+}
+.btn-limit {
+  background: -webkit-linear-gradient(right, #0a5503, #073244);
+  background-size: 200% 200%;
+  animation: gradient-animation 4s ease infinite;
+}
